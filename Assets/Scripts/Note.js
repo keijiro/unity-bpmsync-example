@@ -6,7 +6,7 @@ var counter : int;
 private var acc : float;
 private var state : boolean;
 
-function OnMouseDown() {
+function OnClick() {
     state = !state;
 }
 
