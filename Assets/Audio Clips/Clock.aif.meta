@@ -5,6 +5,6 @@ AudioImporter:
   format: -1
   quality: -1
   3d: 0
-  forceToMono: 0
+  forceToMono: 1
   stream: 1
   useHardware: 0
